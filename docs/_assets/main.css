@@ -1,5 +1,5 @@
 html > body {
-  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif !important;
+  font-family: 'Coda', 'Roboto', 'Helvetica', 'Arial', sans-serif !important;
   background-color: #FAFAFA;
 }
 .docs-layout .docs-layout-header.mdl-layout__header {
@@ -458,10 +458,10 @@ body:not(.about) .mdl-navigation__link.download > button {
   max-width: 640px;
 
   /* Override */
-  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Coda', 'Roboto', 'Helvetica', 'Arial', sans-serif;
 }
 .docs-text-styling ol li {
-  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Coda', 'Roboto', 'Helvetica', 'Arial', sans-serif;
 }
 
 .docs-text-styling h1 {
